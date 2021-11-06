@@ -429,7 +429,7 @@ msgstr "Choisissez la langue:"
 
 #: index.php:1350
 msgid "User list"
-msgstr ""
+msgstr "Liste des utilisateurs"
 
 #: index.php:1350
 msgid "List of connected users"
@@ -463,11 +463,11 @@ msgstr ""
 # Login Mask
 #: login.php:95 login.php:103 login.php:106
 msgid "Invalid credentials!"
-msgstr ""
+msgstr "Les informations d'identification ne sont pas corrects!"
 
 #: login.php:100
 msgid "Cannot check credentials, sorry!"
-msgstr ""
+msgstr "Nous ne pouvons pas vérifier les informations d'identification, nous nous excusons!"
 
 #: login.php:139
 msgid "Invalid PIN."
@@ -479,11 +479,11 @@ msgstr ""
 
 #: login.php:200
 msgid "Login"
-msgstr ""
+msgstr "Ouverture de session"
 
 #: login.php:204
 msgid "User name"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: login.php:211
 msgid "Password"
@@ -500,11 +500,11 @@ msgstr ""
 # upload.php
 #: upload.php:58
 msgid "This file is too large."
-msgstr ""
+msgstr "Le fichier est trop grand."
 
 #: upload.php:61
 msgid "Large files are not supported."
-msgstr ""
+msgstr "Le support des grands fichiers n'est pas disponible."
 
 #: upload.php:64
 msgid "File was only partially uploaded."
