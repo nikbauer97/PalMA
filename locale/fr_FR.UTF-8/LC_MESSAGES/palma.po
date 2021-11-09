@@ -454,7 +454,7 @@ msgstr ""
 
 #: index.php:1381
 msgid "Log out"
-msgstr ""
+msgstr "Se déconnecter"
 
 #: i12n.php:98
 msgid "Screen section"
